@@ -1,0 +1,15 @@
+{
+  "name": "wordpress",
+  "version": "0.0.0",
+  "authors": [
+    "yakuta1 <anton_yakuta@yahoo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
